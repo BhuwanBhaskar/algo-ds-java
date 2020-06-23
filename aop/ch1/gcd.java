@@ -39,6 +39,11 @@ public class gcd {
     return gcd.count_e1(m, n, counter);
   }
 
+  /**
+   * Get average
+   * @param n
+   * @return
+   */
   static float avg_e1(int n) {
     float avg = 0;
     int len = 10000;
