@@ -1,4 +1,4 @@
-// package practice.aop.ch1;
+package aop.ch1;
 
 public class gcd {
   static int gcd_e(int m, int n) {
